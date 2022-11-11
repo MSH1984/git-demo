@@ -7,7 +7,6 @@ This is the first in this repo.
 
 TEST TEST 
 
+Website contents 
 
-## TEST TEST 2
-
-TEST TEST 2
+1. index.html
