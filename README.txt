@@ -9,4 +9,6 @@ TEST TEST
 
 Website contents 
 
+Here are the files inside the website. 
+
 1. index.html
